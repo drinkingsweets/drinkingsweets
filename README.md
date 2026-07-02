@@ -1,53 +1,58 @@
-# Приветствую! 👋
+# Марк Власенко
 
-Меня зовут **Власенко Марк**, я разработчик на Python, Java.
+Backend-разработчик на Java.  
+Учусь в Финансовом университете при Правительстве РФ, 4 курс, профиль: **Технологии разработки программного обеспечения**.
 
----
+Мне интересно собирать backend-сервисы, продумывать структуру проектов и работать с базами данных.
 
-### 👨‍💻 О себе
+## Сейчас в фокусе
 
-- 🎓 Я специализируюсь на: *Python, Java, PostgreSQL, Javalin, Spring Boot, JTE*.
-- 💼 В настоящее время учусь *Финансовом университете при правительстве РФ* на **3 курсе** с профилем *Технологии разработки программного обеспечения"*.
+- Java backend: Spring Boot, REST API
+- PostgreSQL: схемы, связи, запросы
+- Git, Linux
+- Kafka
+- Redis
 
----
+## Стек
 
-### 🔧 Технологии и инструменты
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+## Проекты
 
----
+| Проект | Что внутри |
+|--------|------------|
+| [online-school](https://github.com/drinkingsweets/online-school) | Курсовой проект на Java, Spring Boot и PostgreSQL. Система онлайн-школы: курсы, уроки, пользователи, администрирование и проверка знаний. |
+| [chess_OOP](https://github.com/drinkingsweets/chess_OOP) | Шахматы на Python с ООП-структурой, подсветкой возможных ходов, отображением угрожаемых фигур и дополнительными фигурами. |
+| [flat-figures](https://github.com/drinkingsweets/flat-figures) | Работа с плоскими фигурами и полигонами, включая визуализацию. |
+| [JavaEx](https://github.com/drinkingsweets/JavaEx) | Набор небольших Java-проектов и упражнений, включая библиотечную систему. |
+| [konnotes](https://github.com/drinkingsweets/konnotes) | Сервис онлайн-заметок с backend и frontend частью. |
 
-### 📊 Статистика по языкам
+## GitHub статистика
 
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=drinkingsweets&layout=compact&theme=radical)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=drinkingsweets&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drinkingsweets&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
 
+<p>
+  <img src="https://streak-stats.demolab.com?user=drinkingsweets&theme=github-dark-blue&hide_border=true" />
+</p>
 
-### 📈 Статистика GitHub
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=drinkingsweets&theme=darkhub&no-frame=true&margin-w=8" />
+</p>
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=drinkingsweets&show_icons=true&theme=radical)
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drinkingsweets&theme=github-compact&hide_border=true" />
+</p>
 
----
+## Контакты
 
-### 📫 Связаться со мной
-- [Telegram](https://t.me/rain_aga1n)
-- [Email](mailto:marrk@internet.ru)
-- [VK](https://vk.com/mmaarrkkk)
-
----
-
-### 📂 Мои проекты
-
-| Проект | Описание |
-|--------|----------|
-|[online-school](https://github.com/drinkingsweets/online-school) | Курсовой проект на Java + Spring Boot + PostgreSQL по реализации информационной системы онлайн-школы с возможностью администрирования, добавления уроков/курсов, прохождения материалов и проверки знаний |
-| [chess_OOP](https://github.com/drinkingsweets/chess_OOP) | Реализация классической игры шахматы на Python с дополнительными улучшениями(показ угрожаемых фигур, показ возможных ходов, новые фигуры) |
-| [flat-figures](https://github.com/drinkingsweets/flat-figures) | Оперирование с плоскими фигурами(полигонами) и визуализация |
-| [JavaEx](https://github.com/drinkingsweets/JavaEx) | Разные мини-проекты на Java(библиотечная система и т.д.) |
-| [konnotes](https://github.com/drinkingsweets/konnotes) | Сервис онлайн-заметок(back+front) |
-
+- Telegram: [@rain_aga1n](https://t.me/rain_aga1n)
+- Email: [marrk@internet.ru](mailto:marrk@internet.ru)
