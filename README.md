@@ -36,20 +36,11 @@ Backend-разработчик на Java.
 ## GitHub статистика
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=drinkingsweets&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drinkingsweets&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=drinkingsweets&theme=github-dark-blue&hide_border=true&locale=ru" alt="GitHub streak" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=drinkingsweets&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=drinkingsweets&theme=darkhub&no-frame=true&margin-w=8" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drinkingsweets&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drinkingsweets&theme=github-compact&hide_border=true" alt="Contribution graph" />
 </p>
 
 ## Контакты
